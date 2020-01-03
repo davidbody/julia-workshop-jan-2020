@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidbody/julia-workshop-jan-2020/master)
+
 # Julia for Data Science
 
 ## Tippie Graduate Analytics Workshop, University of Iowa
@@ -11,5 +13,5 @@
 This workshop is based in part on material from [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham and Garret Grolemund.
 
 <div align="center">
-<a href="https://r4ds.had.co.nz/"><img src="images/r4ds-cover.png" alt="R for Data Science" style="height:500px"/></a>
+<a href="https://r4ds.had.co.nz/"><img src="images/r4ds-cover.png" alt="R for Data Science" height="500"/></a>
 </div>
