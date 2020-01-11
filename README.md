@@ -15,3 +15,5 @@ This workshop is based in part on material from [R for Data Science](https://r4d
 <div align="center">
 <a href="https://r4ds.had.co.nz/"><img src="images/r4ds-cover.png" alt="R for Data Science" height="500"/></a>
 </div>
+
+Solutions to the "Your Turn" exercises are on the [solutions branch](https://github.com/davidbody/julia-workshop-jan-2020/tree/solutions).
